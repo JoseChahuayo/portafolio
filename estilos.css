@@ -402,5 +402,24 @@ html{
 }
 
 
-
-
+button.semanas {
+    background-color: #1b1b1a;
+    color: #fff;
+    padding: 10px 20px;
+    border:2px solid #fff;;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  
+  button.semanas:hover {
+    background-color: #D3EC45;
+  }
+  
+  button.semanas a {
+    color: #fff;
+    text-decoration: none;
+  }
+  

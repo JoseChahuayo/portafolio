@@ -402,7 +402,7 @@ html{
 }
 
 
-button.semanas {
+.nuevo {
     background-color: #1b1b1a;
     color: #fff;
     padding: 10px 20px;
@@ -414,11 +414,11 @@ button.semanas {
     transition: background-color 0.3s;
   }
   
-  button.semanas:hover {
+  .nuevo:hover {
     background-color: #D3EC45;
   }
   
-  button.semanas a {
+  .nuevo a {
     color: #fff;
     text-decoration: none;
   }
